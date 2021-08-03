@@ -1,6 +1,6 @@
 ### Hey 👋, I'm [Kyle Dufrane](https://linktr.ee/kyle.dufrane) 👨‍💻
 
-<p align="center"><img src="https://giphy.com/gifs/wistia-fefXhtGG2NeynEUHtU" alt="Developer" border="0"></p>
+<p align="center"><img src="https://gph.is/2RmcguB" alt="Developer" border="0"></p>
 
 <!-- :smiley: Recent graduate from Flatiron Data Science Bootcamp (August 2021) **[Team KJSCE Robocon](https://kjscerobocon.tech/)**
 -->
