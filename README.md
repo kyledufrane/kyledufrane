@@ -1,6 +1,4 @@
-### Hey 👋, I'm [Hritik Jaiswal](https://linktr.ee/hritikdj) 👨‍💻
-
-<p align="center"><img src="https://static.wixstatic.com/media/b44604_ab93759af2504ae99f450fd63a4b562d~mv2.gif" alt="Developer" border="0"></p>
+### Hey 👋, I'm [Kyle Dufrane](https://linktr.ee/kyle.dufrane) 👨‍💻
 
 <!-- :smiley: Recent graduate from Flatiron Data Science Bootcamp (August 2021) **[Team KJSCE Robocon](https://kjscerobocon.tech/)**
 -->
@@ -25,7 +23,7 @@
 
 |                                                                                                                                                                                                        <a href="https://kyledufrane.github.io/"><img src="https://i.ibb.co/d2x8jD3/icon-programmer-14.png" width="150px" height="150px" /></a>                                                                                                                                                                                                        |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                                                                                                                                             **[Kyle Dufrnae](https://linktr.ee/kyle.dufrane)**                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                             **[Kyle Dufrane](https://linktr.ee/kyle.dufrane)**                                                                                                                                                                                                                                                              |
 | <a href="https://github.com/kyledufrane"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/kyle.duf"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/kyle-dufrane-8131086b/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 <!--
