@@ -1,4 +1,4 @@
-<p align="center">### Hey 👋, I'm [Kyle Dufrane](https://linktr.ee/kyle.dufrane) 👨‍💻
+### Hey 👋, I'm [Kyle Dufrane](https://linktr.ee/kyle.dufrane) 👨‍💻
 
 <p align="center"><img src="https://media.giphy.com/media/fefXhtGG2NeynEUHtU/giphy.gif" alt="Developer" border="0"></p>
 
